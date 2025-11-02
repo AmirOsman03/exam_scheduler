@@ -32,6 +32,7 @@ class ExamListScreen extends StatelessWidget {
       subject: "Вештачка интелигенција",
       dateTime: DateTime(2025, 12, 1, 8, 30),
       rooms: ["ЛАБ 138"],
+      isPassed: true,
     ),
     Exam(
       subject: "Интернет технологии",
@@ -52,7 +53,6 @@ class ExamListScreen extends StatelessWidget {
       subject: "Информациски системи",
       dateTime: DateTime(2025, 12, 10, 11, 0),
       rooms: ["ЛАБ 2"],
-      isPassed: true,
     ),
     Exam(
       subject: "Дизајн на интерфејс",

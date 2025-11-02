@@ -1,16 +1,20 @@
-# exam_scheduler
+# 📅 Exam Scheduler  
 
-A new Flutter project.
+A **Flutter mobile application** for organizing and tracking exam schedules — helping students easily plan, view, and manage their upcoming exams.  
 
-## Getting Started
+## ✨ Features  
+- View all upcoming and completed exams in a list
+- Check the status of each exam (completed or pending)
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack  
+- **Framework:** Flutter (Dart)
 
-A few resources to get you started if this is your first Flutter project:
+## 🖼️ Screens
+- **Home screen**
+![Home](./screenshots/home_screen.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Exam details screen**
+![Exam Details](./screenshots/exam_details.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Passed exam details screen**
+![Passed Exam Details](./screenshots/passed_exam_details.png)
