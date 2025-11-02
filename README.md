@@ -10,11 +10,11 @@ A **Flutter mobile application** for organizing and tracking exam schedules — 
 - **Framework:** Flutter (Dart)
 
 ## 🖼️ Screens
-- **Home screen**
-![Home](./screenshots/home_screen.png)
+- **Home screen**  
+<img src="./screenshots/home_screen.png" alt="Home" width="300"/>
 
-- **Exam details screen**
-![Exam Details](./screenshots/exam_details.png)
+- **Exam details screen**  
+<img src="./screenshots/exam_details.png" alt="Exam Details" width="300"/>
 
-- **Passed exam details screen**
-![Passed Exam Details](./screenshots/passed_exam_details.png)
+- **Passed exam details screen**  
+<img src="./screenshots/passed_exam_details.png" alt="Passed Exam Details" width="300"/>
